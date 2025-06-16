@@ -10,7 +10,7 @@
 
 
 ![Badge_DonorMonth1222](https://github.com/user-attachments/assets/6874e57e-67f7-4fbb-b042-85648a82907b)
-Currently immersed in the world of **3rd Party Software Applications (C,C# Modern C++ and Rust)**, fascinated by the disgusting abuse of **Rootkis ripping Data**, and always on the lookout for inspiring **Entry Points in Payload Code Execitons** like **PE32+**, **MZ**, and **who knows**.
+Currently immersed in the world of **3rd Party Software Applications (C,C# Modern C++ and Rust)**, fascinated by the disgusting abuse of **Rootkis ripping Data**, and always on the lookout for inspiring **Entry Points in Payload Code execution** like **PE32+**, **MZ**, and **who knows**.
 
 ![Badge_DonorMonth1121](https://github.com/user-attachments/assets/1e7741fd-abda-4eea-a7ac-299ebec02316)
  Passionately dying while trying to buiding an *better Payload execution aswsell versions of PE32+ and MZ with Sub-file, Client- and Terminal Images** enjoyable projects.
